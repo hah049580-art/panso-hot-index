@@ -2,7 +2,7 @@
 
 > 官网直达：[**盘搜 panso.xin**](https://panso.xin/) · [云盘搜热门专题](https://panso.xin/hot/) · [全站热搜榜](https://panso.xin/hot/resou.html) · [每日实时入库](https://panso.xin/z/) · [RSS订阅](https://panso.xin/feed.xml)
 >
-> 本仓库每日自动同步 [**盘搜（云搜 panso.xin）**](https://panso.xin/) 实时聚合的百度热搜影视榜、豆瓣高分榜、B站国创/番剧榜及考研考公编程资料公开网盘索引（仅聚合公开分享索引，免注册、无弹窗广告，支持一键转存）。当前已收录 **567 个专题**，最近同步：`2026-11-25 16:30`。
+> 本仓库每日自动同步 [**盘搜（云搜 panso.xin）**](https://panso.xin/) 实时聚合的百度热搜影视榜、豆瓣高分榜、B站国创/番剧榜及考研考公编程资料公开网盘索引（仅聚合公开分享索引，免注册、无弹窗广告，支持一键转存）。当前已收录 **590 个专题**，最近同步：`2026-11-25 17:00`。
 
 ## 🔥 今日全站飙升热榜（2026-11-25）
 
@@ -19,7 +19,7 @@
 
 ## 📂 各频道精选实时榜单
 
-### 热播电视剧（共 72 个专题 · [查看完整列表](docs/dianshiju.md) · [官网频道](https://panso.xin/hot/dianshiju.html)）
+### 热播电视剧（共 86 个专题 · [查看完整列表](docs/dianshiju.md) · [官网频道](https://panso.xin/hot/dianshiju.html)）
 
 - [九门](https://panso.xin/hot/dianshiju-40fbac77a9.html) — 百度/夸克实时收录 58 条
 - [非份之罪](https://panso.xin/hot/dianshiju-3ec33ace5c.html) — 百度/夸克实时收录 19 条
@@ -49,7 +49,7 @@
 - [什么意思夫妇](https://panso.xin/hot/dianying-6f66471e3e.html) — 百度/夸克实时收录 2 条
 - [八仙！](https://panso.xin/hot/dianying-b4fc984ff4.html) — 百度/夸克实时收录 5 条
 
-### 爆款短剧热榜（共 33 个专题 · [查看完整列表](docs/duanju.md) · [官网频道](https://panso.xin/hot/duanju.html)）
+### 爆款短剧热榜（共 43 个专题 · [查看完整列表](docs/duanju.md) · [官网频道](https://panso.xin/hot/duanju.html)）
 
 - [婚礼当天，她的伴娘全跑了](https://panso.xin/hot/duanju-98568fac78.html) — 百度/夸克实时收录 4 条
 - [退租当天，我把装修全搬空](https://panso.xin/hot/duanju-03be4d4d25.html) — 百度/夸克实时收录 1 条
@@ -57,12 +57,12 @@
 - [表姐群里笑我离婚，我反手](https://panso.xin/hot/duanju-8a4a823d64.html) — 百度/夸克实时收录 4 条
 - [邻居帅哥每天都在抓我现行](https://panso.xin/hot/duanju-1bb9a44cd0.html) — 百度/夸克实时收录 1 条
 - [别惹那小子，他是修仙大佬](https://panso.xin/hot/duanju-2d720202b8.html) — 百度/夸克实时收录 3 条
-- [言小姐，今日宜离婚](https://panso.xin/hot/duanju-ce5ed3d514.html) — 百度/夸克实时收录 4 条
+- [言小姐，今日宜离婚](https://panso.xin/hot/duanju-ce5ed3d514.html) — 百度/夸克实时收录 3 条
+- [神医保镖太无敌，专治不服](https://panso.xin/hot/duanju-a31f16191d.html) — 百度/夸克实时收录 4 条
 - [分手后我养了个契约男友](https://panso.xin/hot/duanju-cab9908c2b.html) — 百度/夸克实时收录 1 条
 - [大婚当天，来了个乞丐爹](https://panso.xin/hot/duanju-4ff61239ab.html) — 百度/夸克实时收录 3 条
 - [恋爱脑舍友请客，我却逃过](https://panso.xin/hot/duanju-ecd2c0aac6.html) — 百度/夸克实时收录 3 条
 - [狂龙出山，我在城里打拼成](https://panso.xin/hot/duanju-13f4fd4b57.html) — 百度/夸克实时收录 3 条
-- [一世战王](https://panso.xin/hot/duanju-c9af979e38.html) — 百度/夸克实时收录 1 条
 
 ### 热门国漫与日漫（共 62 个专题 · [查看完整列表](docs/dongman.md) · [官网频道](https://panso.xin/hot/dongman.html)）
 
@@ -109,10 +109,10 @@
 - [软考高级系统架构师](https://panso.xin/hot/ziliao-ruankao.html) — 百度/夸克实时收录 79 条
 - [Python编程教程](https://panso.xin/hot/ziliao-python.html) — 百度/夸克实时收录 81 条
 
-### 全站实时热搜词（共 224 个专题 · [查看完整列表](docs/resou.md) · [官网频道](https://panso.xin/hot/resou.html)）
+### 全站实时热搜词（共 223 个专题 · [查看完整列表](docs/resou.md) · [官网频道](https://panso.xin/hot/resou.html)）
 
-- [云白](https://panso.xin/hot/resou-f65df5d319.html) — 百度/夸克实时收录 27 条
 - [地狱大状](https://panso.xin/hot/resou-46ce5547c8.html) — 百度/夸克实时收录 69 条
+- [网盘资源](https://panso.xin/hot/resou-6a1bbf6bd5.html) — 百度/夸克实时收录 87 条
 - [绍宋](https://panso.xin/hot/resou-13f16a5c76.html) — 百度/夸克实时收录 44 条
 - [兰香缘](https://panso.xin/hot/resou-b964387eec.html) — 百度/夸克实时收录 16 条
 - [九星霸体诀](https://panso.xin/hot/resou-8aa3c576d5.html) — 百度/夸克实时收录 4 条
@@ -127,6 +127,8 @@
 ## 🧭 实用网盘搜索指南
 
 - [盘搜（云搜）在线网盘搜索工具（免费免注册）](https://panso.xin/landing/zaixian-sousuo.html)
+- [云盘搜 · 百度云搜与夸克网盘聚合搜索引擎](https://panso.xin/landing/yunpansou.html)
+- [2026 百度云电影 4K 高清资源搜索入口](https://panso.xin/landing/baiduyun-dianying.html)
 - [百度网盘资源搜索引擎入口（百度云电影/资料）](https://panso.xin/landing/baidu-search.html)
 - [夸克网盘 4K 影视与短剧搜索](https://panso.xin/landing/kuake-search.html)
 - [2026 热播韩剧全集夸克网盘与百度网盘资源](https://panso.xin/landing/hanju-ziyuan.html)
