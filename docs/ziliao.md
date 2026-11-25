@@ -82,3 +82,4 @@
 | 76 | **2026事业单位职测综应** | 84 条 | 包含事业单位联考A/B/C/D/E类职业能力倾向测验与综合应用能力真题包。 | [前往云搜 →](https://panso.xin/hot/ziliao-shiyedanwei.html) |
 | 77 | **银行与国企秋招春招资料** | 13 条 | 汇总六大行、电网、烟草与三大运营商笔试EPI行测题库及面试真题解析。 | [前往云搜 →](https://panso.xin/hot/ziliao-yinhang.html) |
 | 78 | **育婴师与早教营养指南** | 99 条 | 收录0-6岁科学育儿百科、辅食食谱、绘本共读音频与语言启蒙资料。 | [前往云搜 →](https://panso.xin/hot/ziliao-yuying.html) |
+| 79 | **2027考研资料** | 1 条 | 2026全网热搜学习资料《2027考研资料》百度网盘与夸克免费聚合合集。 | [前往云搜 →](https://panso.xin/hot/ziliao-ab22d23473.html) |
