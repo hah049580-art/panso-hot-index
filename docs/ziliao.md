@@ -54,3 +54,31 @@
 | 48 | **儿童绘本与早教启蒙** | 83 条 | 收录牛津树、RAZ分级阅读PDF音频及经典中英文儿童启蒙绘本合集。 | [前往云搜 →](https://panso.xin/hot/ziliao-huiben.html) |
 | 49 | **中医养生与经络穴位资料** | 90 条 | 汇集黄帝内经解读、针灸推拿经络图解与日常食疗养生电子书合集。 | [前往云搜 →](https://panso.xin/hot/ziliao-zhongyi.html) |
 | 50 | **跨境电商与运营实战课** | 87 条 | 整理亚马逊、TikTok与国内电商选品、广告投放及数据分析教程。 | [前往云搜 →](https://panso.xin/hot/ziliao-dianshang.html) |
+| 51 | **计算机二级MS Office与Python** | 68 条 | 汇总全国计算机二级Office高级应用、Python与C语言真题题库及操作视频。 | [前往云搜 →](https://panso.xin/hot/ziliao-jsj-erji.html) |
+| 52 | **中级经济师备考资料** | 75 条 | 涵盖经济基础知识与工商/人力/金融实务精讲讲义与历年真题网盘合集。 | [前往云搜 →](https://panso.xin/hot/ziliao-jingjishi.html) |
+| 53 | **心理学经典课程与电子书** | 96 条 | 汇集发展心理学、认知行为疗法、咨询基础与经典心理学电子书合集。 | [前往云搜 →](https://panso.xin/hot/ziliao-xinli.html) |
+| 54 | **监理工程师备考资料** | 56 条 | 包含建设工程合同管理、目标控制、法规与案例分析精讲课及真题。 | [前往云搜 →](https://panso.xin/hot/ziliao-jianli.html) |
+| 55 | **PMP项目管理备考资料** | 8 条 | 收录PMBOK第七版指南、敏捷实践精讲视频、模拟题库与冲刺串讲笔记。 | [前往云搜 →](https://panso.xin/hot/ziliao-pmp.html) |
+| 56 | **2026考研408计算机统考** | 70 条 | 聚合数据结构、计组、操作系统与计算机网络王道精讲视频与真题解析。 | [前往云搜 →](https://panso.xin/hot/ziliao-kaoyan-408.html) |
+| 57 | **2026考研199管综真题资料** | 27 条 | 整理管理类联考数学、逻辑与写作历年真题、精讲讲义与冲刺押题卷。 | [前往云搜 →](https://panso.xin/hot/ziliao-kaoyan-199.html) |
+| 58 | **2026专升本全科复习资料** | 79 条 | 汇总各省统招专升本英语、高数、语文与计算机历年真题及网课合集。 | [前往云搜 →](https://panso.xin/hot/ziliao-zhuanshengben.html) |
+| 59 | **新概念英语1-4全套资料** | 70 条 | 收录新概念英语一至四册高清PDF教材、英美原版音频与精讲视频课。 | [前往云搜 →](https://panso.xin/hot/ziliao-xingainian.html) |
+| 60 | **小红书自媒体运营实战** | 18 条 | 整理小红书起号定位、爆款选题模板、图文排版与变现实操课程资料。 | [前往云搜 →](https://panso.xin/hot/ziliao-xiaohongshu.html) |
+| 61 | **ComfyUI与AI绘画实战** | 54 条 | 涵盖Stable Diffusion、ComfyUI节点工作流、电商生图与模型教程合集。 | [前往云搜 →](https://panso.xin/hot/ziliao-comfyui.html) |
+| 62 | **Cinema 4D三维设计教程** | 106 条 | 聚合C4D建模、OC/RS渲染器实战、电商三维海报与动态视觉工程素材。 | [前往云搜 →](https://panso.xin/hot/ziliao-c4d.html) |
+| 63 | **Unity游戏开发实战教程** | 63 条 | 收录Unity C#脚本编程、2D/3D独立游戏开发全流程实战与资源包。 | [前往云搜 →](https://panso.xin/hot/ziliao-unity.html) |
+| 64 | **MySQL与Redis数据库实战** | 99 条 | 汇总MySQL索引调优、事务底层原理与Redis高并发缓存实战视频教程。 | [前往云搜 →](https://panso.xin/hot/ziliao-mysql-redis.html) |
+| 65 | **Kubernetes云原生实战** | 72 条 | 整理K8s集群搭建、Helm部署、微服务治理与DevOps自动化运维教程。 | [前往云搜 →](https://panso.xin/hot/ziliao-k8s.html) |
+| 66 | **MATLAB数学建模教程** | 80 条 | 收录MATLAB基础语法、数据可视化、信号处理与数模国赛美赛资料包。 | [前往云搜 →](https://panso.xin/hot/ziliao-matlab.html) |
+| 67 | **WPS高效办公实战技巧** | 154 条 | 汇集WPS文字排版、表格函数透视与演示模板等职场办公效率提升合集。 | [前往云搜 →](https://panso.xin/hot/ziliao-wps.html) |
+| 68 | **摄影后期Lightroom调色** | 72 条 | 整理人像风光摄影构图、Lightroom/Capture One调色预设与修图教程。 | [前往云搜 →](https://panso.xin/hot/ziliao-lightroom.html) |
+| 69 | **吉他零基础自学教程谱** | 19 条 | 收录民谣吉他弹唱入门视频、指弹技巧课程与热门流行歌曲高清吉他谱。 | [前往云搜 →](https://panso.xin/hot/ziliao-jita.html) |
+| 70 | **钢琴零基础入门与曲谱** | 45 条 | 汇总拜厄、车尔尼、哈农练习曲教学视频与经典流行钢琴五线谱简谱合集。 | [前往云搜 →](https://panso.xin/hot/ziliao-gangqin.html) |
+| 71 | **居家健身减脂塑形跟练** | 60 条 | 整理科学力量训练计划、帕梅拉/体态矫正与减脂饮食指南视频合集。 | [前往云搜 →](https://panso.xin/hot/ziliao-jianshen.html) |
+| 72 | **家装室内设计与CAD图纸** | 20 条 | 收录现代极简/原木风全屋装修避坑清单、施工标准图集与软装搭配方案。 | [前往云搜 →](https://panso.xin/hot/ziliao-zhuangxiu.html) |
+| 73 | **经济学与商业经典书单** | 116 条 | 聚合曼昆经济学原理、微观宏观教材及高分财经商业管理PDF/EPUB电子书。 | [前往云搜 →](https://panso.xin/hot/ziliao-jingjixue.html) |
+| 74 | **中小学思维训练与名师课** | 80 条 | 汇总小初高语数英同步复习讲义、几何压轴专项突破与学霸错题笔记。 | [前往云搜 →](https://panso.xin/hot/ziliao-aoshu.html) |
+| 75 | **大学高数线代概率期末** | 60 条 | 整理同济高数、线性代数与概率统计期末速成网课、历年考卷与公式手册。 | [前往云搜 →](https://panso.xin/hot/ziliao-gaoshu.html) |
+| 76 | **2026事业单位职测综应** | 84 条 | 包含事业单位联考A/B/C/D/E类职业能力倾向测验与综合应用能力真题包。 | [前往云搜 →](https://panso.xin/hot/ziliao-shiyedanwei.html) |
+| 77 | **银行与国企秋招春招资料** | 13 条 | 汇总六大行、电网、烟草与三大运营商笔试EPI行测题库及面试真题解析。 | [前往云搜 →](https://panso.xin/hot/ziliao-yinhang.html) |
+| 78 | **育婴师与早教营养指南** | 99 条 | 收录0-6岁科学育儿百科、辅食食谱、绘本共读音频与语言启蒙资料。 | [前往云搜 →](https://panso.xin/hot/ziliao-yuying.html) |
