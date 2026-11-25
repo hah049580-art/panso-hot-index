@@ -126,13 +126,14 @@
 
 ## 🧭 实用网盘搜索指南
 
-- [云搜在线网盘搜索工具（免费免注册）](https://panso.xin/landing/zaixian-sousuo.html)
-- [百度网盘资源搜索引擎入口](https://panso.xin/landing/baidu-search.html)
+- [盘搜（云搜）在线网盘搜索工具（免费免注册）](https://panso.xin/landing/zaixian-sousuo.html)
+- [百度网盘资源搜索引擎入口（百度云电影/资料）](https://panso.xin/landing/baidu-search.html)
 - [夸克网盘 4K 影视与短剧搜索](https://panso.xin/landing/kuake-search.html)
+- [2026 热播韩剧全集夸克网盘与百度网盘资源](https://panso.xin/landing/hanju-ziyuan.html)
 - [2026 好用的免费网盘搜索引擎推荐](https://panso.xin/landing/2026-wangpan-sousuo-tuijian.html)
 - [2026 爆款短剧全集网盘搜索](https://panso.xin/landing/duanju-mianfei-wangpan.html)
 - [2026 热播电视剧全集网盘检索](https://panso.xin/landing/dianshiju-quanji-wangpan.html)
-- [4K 蓝光杜比视界高清电影网盘合集](https://panso.xin/landing/4k-dianying-wangpan.html)
+- [4K 蓝光杜比视界高清电影百度云网盘合集](https://panso.xin/landing/4k-dianying-wangpan.html)
 - [2026 考研英语政治数学百度网盘资料](https://panso.xin/landing/kaoyan-ziliao.html)
 - [2026 国考省考公务员行测申论资料](https://panso.xin/landing/kaogong-ziliao-wangpan.html)
 - [百度网盘链接失效怎么办？3招实时补档](https://panso.xin/landing/baidu-wangpan-shixiao-zenmeban.html)
