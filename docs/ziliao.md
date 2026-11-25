@@ -43,3 +43,13 @@
 | 37 | **西门子PLC工控实战案例** | 17 条 | 收录西门子S7-1200/1500 PLC编程案例、博途入门视频与电气图纸资料。 | [前往云搜 →](https://panso.xin/hot/ziliao-plc.html) |
 | 38 | **国家体育总局八段锦教学** | 88 条 | 整理标准口令版八段锦完整教学视频、跟练音频与动作要领图解合集。 | [前往云搜 →](https://panso.xin/hot/ziliao-baduanjin.html) |
 | 39 | **硬笔毛笔书法字帖合集** | 82 条 | 汇总田英章、荆霄鹏楷书行书字帖PDF及历代经典碑帖高清扫描版。 | [前往云搜 →](https://panso.xin/hot/ziliao-shufa.html) |
+| 40 | **二级建造师备考资料** | 43 条 | 整理二建施工管理、法规及建筑/市政/机电实务精讲课与历年真题。 | [前往云搜 →](https://panso.xin/hot/ziliao-erjian.html) |
+| 41 | **初级会计职称备考资料** | 86 条 | 汇总初级会计实务与经济法基础高频考点笔记、刷题库与押题卷。 | [前往云搜 →](https://panso.xin/hot/ziliao-chujikuaiji.html) |
+| 42 | **税务师职业资格资料** | 79 条 | 涵盖税法一、税法二、涉税服务实务与财务会计精讲讲义网盘合集。 | [前往云搜 →](https://panso.xin/hot/ziliao-shuiwushi.html) |
+| 43 | **韩语TOPIK入门到高级** | 21 条 | 收集延世韩国语教材音频、TOPIK历年真题与日常口语跟读视频。 | [前往云搜 →](https://panso.xin/hot/ziliao-hanyu.html) |
+| 44 | **C++编程开发实战教程** | 86 条 | 精选C/C++零基础入门、STL源码、QT开发与Linux后端实战教程。 | [前往云搜 →](https://panso.xin/hot/ziliao-cpp.html) |
+| 45 | **短视频剪辑音效素材包** | 66 条 | 汇总综艺爆笑音效、转场空镜、无版权BGM配乐与字幕预设素材。 | [前往云搜 →](https://panso.xin/hot/ziliao-yinxiao.html) |
+| 46 | **免费商用字体打包合集** | 88 条 | 整理思源黑体、阿里巴巴普惠体、站酷系列等可商用中英文字体包。 | [前往云搜 →](https://panso.xin/hot/ziliao-ziti.html) |
+| 47 | **儿童绘本与早教启蒙** | 83 条 | 收录牛津树、RAZ分级阅读PDF音频及经典中英文儿童启蒙绘本合集。 | [前往云搜 →](https://panso.xin/hot/ziliao-huiben.html) |
+| 48 | **中医养生与经络穴位资料** | 90 条 | 汇集黄帝内经解读、针灸推拿经络图解与日常食疗养生电子书合集。 | [前往云搜 →](https://panso.xin/hot/ziliao-zhongyi.html) |
+| 49 | **跨境电商与运营实战课** | 87 条 | 整理亚马逊、TikTok与国内电商选品、广告投放及数据分析教程。 | [前往云搜 →](https://panso.xin/hot/ziliao-dianshang.html) |
