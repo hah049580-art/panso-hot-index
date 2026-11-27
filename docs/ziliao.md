@@ -7,7 +7,7 @@
 | 1 | **2026考研英语** | 52 条 | 涵盖考研英语一/二历年真题解析、高频词汇、长难句与作文冲刺网盘资料。 | [前往云搜 →](https://panso.xin/hot/ziliao-kaoyan-yingyu.html) |
 | 2 | **2026考研政治** | 51 条 | 整理考研政治核心考点笔记、肖秀荣/腿姐冲刺背诵手册与模拟卷网盘汇总。 | [前往云搜 →](https://panso.xin/hot/ziliao-kaoyan-zhengzhi.html) |
 | 3 | **2026考研数学** | 33 条 | 汇总考研数学一/二/三高数、线代、概率论强化课讲义与真题全集。 | [前往云搜 →](https://panso.xin/hot/ziliao-kaoyan-shuxue.html) |
-| 4 | **2026公务员省考国考** | 2 条 | 聚合行测言语/判断/资料分析与申论范文真题百度网盘及夸克公开资源。 | [前往云搜 →](https://panso.xin/hot/ziliao-gongwuyuan.html) |
+| 4 | **2026公务员省考国考** | 29 条 | 聚合行测言语/判断/资料分析与申论范文真题百度网盘及夸克公开资源。 | [前往云搜 →](https://panso.xin/hot/ziliao-gongwuyuan.html) |
 | 5 | **CPA注册会计师** | 41 条 | 包含CPA会计、审计、财管、税法、经济法、战略六科讲义与题库资料。 | [前往云搜 →](https://panso.xin/hot/ziliao-cpa.html) |
 | 6 | **中级会计职称** | 68 条 | 涵盖中级会计实务、财务管理、经济法三科精讲视频与高频考点笔记。 | [前往云搜 →](https://panso.xin/hot/ziliao-kuaiji.html) |
 | 7 | **法律职业资格考试** | 45 条 | 整理法考客观题与主观题刑法、民法、行政法等核心学科网盘复习资料。 | [前往云搜 →](https://panso.xin/hot/ziliao-fakao.html) |
@@ -16,10 +16,10 @@
 | 10 | **英语四六级真题** | 65 条 | 收录大学英语四六级历年真题音频、翻译高频词与作文万能模板。 | [前往云搜 →](https://panso.xin/hot/ziliao-siliuji.html) |
 | 11 | **软考高级系统架构师** | 78 条 | 汇总软考高级信息系统项目管理师与系统架构师历年真题与论文范文。 | [前往云搜 →](https://panso.xin/hot/ziliao-ruankao.html) |
 | 12 | **Python编程教程** | 78 条 | 精选Python零基础入门、爬虫、数据分析、自动化办公与AI实战视频教程。 | [前往云搜 →](https://panso.xin/hot/ziliao-python.html) |
-| 13 | **AI大模型教程** | 78 条 | 收录AI提示词工程、本地部署、Agent开发与主流AI工具实战学习资料。 | [前往云搜 →](https://panso.xin/hot/ziliao-ai-llm.html) |
-| 14 | **前端Vue React教程** | 65 条 | 聚合HTML/CSS/JS、Vue3、React与TypeScript项目实战网盘教程。 | [前往云搜 →](https://panso.xin/hot/ziliao-frontend.html) |
-| 15 | **PS教程与素材** | 84 条 | 提供Photoshop人像修图、电商海报设计教程及常用笔刷字体素材包。 | [前往云搜 →](https://panso.xin/hot/ziliao-ps.html) |
-| 16 | **PR剪映剪辑教程** | 3 条 | 收录Premiere与剪映短视频剪辑实战课程、转场音效与字幕模板。 | [前往云搜 →](https://panso.xin/hot/ziliao-pr-jianying.html) |
+| 13 | **AI大模型教程** | 71 条 | 收录AI提示词工程、本地部署、Agent开发与主流AI工具实战学习资料。 | [前往云搜 →](https://panso.xin/hot/ziliao-ai-llm.html) |
+| 14 | **前端Vue React教程** | 62 条 | 聚合HTML/CSS/JS、Vue3、React与TypeScript项目实战网盘教程。 | [前往云搜 →](https://panso.xin/hot/ziliao-frontend.html) |
+| 15 | **PS教程与素材** | 74 条 | 提供Photoshop人像修图、电商海报设计教程及常用笔刷字体素材包。 | [前往云搜 →](https://panso.xin/hot/ziliao-ps.html) |
+| 16 | **PR剪映剪辑教程** | 75 条 | 收录Premiere与剪映短视频剪辑实战课程、转场音效与字幕模板。 | [前往云搜 →](https://panso.xin/hot/ziliao-pr-jianying.html) |
 | 17 | **AE影视后期模板** | 52 条 | 聚合After Effects片头特效、MG动画工程文件与插件教程网盘资源。 | [前往云搜 →](https://panso.xin/hot/ziliao-ae-moban.html) |
 | 18 | **Office PPT模板** | 82 条 | 汇总Word/Excel函数公式教程、年终总结与商务汇报精品PPT模板。 | [前往云搜 →](https://panso.xin/hot/ziliao-ppt-office.html) |
 | 19 | **AutoCAD教程图纸** | 39 条 | 整理CAD建筑施工图、机械制图基础入门视频与常用图库模板。 | [前往云搜 →](https://panso.xin/hot/ziliao-autocad.html) |
@@ -34,7 +34,7 @@
 | 28 | **一级消防工程师资料** | 59 条 | 包含技术实务、综合能力、案例分析三科精讲视频与规范图解网盘合集。 | [前往云搜 →](https://panso.xin/hot/ziliao-xiaofang.html) |
 | 29 | **2026高考真题与押题卷** | 63 条 | 汇总全国卷与新高考语数英物化生政史地历年真题及清北学霸笔记。 | [前往云搜 →](https://panso.xin/hot/ziliao-gaokao.html) |
 | 30 | **2026中考真题与复习资料** | 34 条 | 收录初中全科同步精讲、中考压轴题专项突破与模拟试卷PDF网盘资源。 | [前往云搜 →](https://panso.xin/hot/ziliao-zhongkao.html) |
-| 31 | **日语JLPT N1-N5学习资料** | 11 条 | 整理新版标日、大家的日语教材音频、JLPT N1/N2真题与语法高频汇总。 | [前往云搜 →](https://panso.xin/hot/ziliao-riyu.html) |
+| 31 | **日语JLPT N1-N5学习资料** | 8 条 | 整理新版标日、大家的日语教材音频、JLPT N1/N2真题与语法高频汇总。 | [前往云搜 →](https://panso.xin/hot/ziliao-riyu.html) |
 | 32 | **Go语言后端开发教程** | 73 条 | 精选Golang高并发编程、Gin/Gorm框架、微服务与云原生实战教程。 | [前往云搜 →](https://panso.xin/hot/ziliao-golang.html) |
 | 33 | **Linux运维与Docker教程** | 68 条 | 涵盖Linux命令行、Shell脚本、Docker容器与Kubernetes集群部署教程。 | [前往云搜 →](https://panso.xin/hot/ziliao-linux.html) |
 | 34 | **Excel函数公式与透视表** | 74 条 | 汇集Excel常用函数公式、数据透视表、VBA自动化办公与财务报表模板。 | [前往云搜 →](https://panso.xin/hot/ziliao-excel.html) |
@@ -65,7 +65,7 @@
 | 59 | **新概念英语1-4全套资料** | 68 条 | 收录新概念英语一至四册高清PDF教材、英美原版音频与精讲视频课。 | [前往云搜 →](https://panso.xin/hot/ziliao-xingainian.html) |
 | 60 | **小红书自媒体运营实战** | 15 条 | 整理小红书起号定位、爆款选题模板、图文排版与变现实操课程资料。 | [前往云搜 →](https://panso.xin/hot/ziliao-xiaohongshu.html) |
 | 61 | **ComfyUI与AI绘画实战** | 45 条 | 涵盖Stable Diffusion、ComfyUI节点工作流、电商生图与模型教程合集。 | [前往云搜 →](https://panso.xin/hot/ziliao-comfyui.html) |
-| 62 | **Cinema 4D三维设计教程** | 83 条 | 聚合C4D建模、OC/RS渲染器实战、电商三维海报与动态视觉工程素材。 | [前往云搜 →](https://panso.xin/hot/ziliao-c4d.html) |
+| 62 | **Cinema 4D三维设计教程** | 81 条 | 聚合C4D建模、OC/RS渲染器实战、电商三维海报与动态视觉工程素材。 | [前往云搜 →](https://panso.xin/hot/ziliao-c4d.html) |
 | 63 | **Unity游戏开发实战教程** | 54 条 | 收录Unity C#脚本编程、2D/3D独立游戏开发全流程实战与资源包。 | [前往云搜 →](https://panso.xin/hot/ziliao-unity.html) |
 | 64 | **MySQL与Redis数据库实战** | 78 条 | 汇总MySQL索引调优、事务底层原理与Redis高并发缓存实战视频教程。 | [前往云搜 →](https://panso.xin/hot/ziliao-mysql-redis.html) |
 | 65 | **Kubernetes云原生实战** | 63 条 | 整理K8s集群搭建、Helm部署、微服务治理与DevOps自动化运维教程。 | [前往云搜 →](https://panso.xin/hot/ziliao-k8s.html) |
@@ -81,4 +81,4 @@
 | 75 | **大学高数线代概率期末** | 59 条 | 整理同济高数、线性代数与概率统计期末速成网课、历年考卷与公式手册。 | [前往云搜 →](https://panso.xin/hot/ziliao-gaoshu.html) |
 | 76 | **2026事业单位职测综应** | 83 条 | 包含事业单位联考A/B/C/D/E类职业能力倾向测验与综合应用能力真题包。 | [前往云搜 →](https://panso.xin/hot/ziliao-shiyedanwei.html) |
 | 77 | **银行与国企秋招春招资料** | 13 条 | 汇总六大行、电网、烟草与三大运营商笔试EPI行测题库及面试真题解析。 | [前往云搜 →](https://panso.xin/hot/ziliao-yinhang.html) |
-| 78 | **育婴师与早教营养指南** | 87 条 | 收录0-6岁科学育儿百科、辅食食谱、绘本共读音频与语言启蒙资料。 | [前往云搜 →](https://panso.xin/hot/ziliao-yuying.html) |
+| 78 | **育婴师与早教营养指南** | 86 条 | 收录0-6岁科学育儿百科、辅食食谱、绘本共读音频与语言启蒙资料。 | [前往云搜 →](https://panso.xin/hot/ziliao-yuying.html) |
